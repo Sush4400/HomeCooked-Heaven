@@ -1,0 +1,102 @@
+/* 
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.brand-logo{
+    height: 50px;
+    width: 170px;
+}
+
+.navbar{
+    background-color: none;
+}
+
+.user{
+    margin: 20px;
+    margin-top: 12px;
+}
+
+/* .hero{
+    height: 500px;
+} */
+
+
+
+/* .c-item{
+  height: 550px;
+}
+
+.c-img{
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.8);
+}
+
+.sec{
+  margin-top: 30px;
+}
+
+.right{
+  text-align: right;
+} */
+
+.testimonials{
+  text-align: center;
+}
+
+/* .img1-div{
+  height: 20rem;
+  width: 450px;
+  background-image: url('https://2.bp.blogspot.com/-OU_L_dlS_G0/Wx9rVpMKeVI/AAAAAAAAAEE/lL6pyCPBVoQkBxbpYZg9wRt6-Lce51C7ACLcBGAs/s1600/imperial%2Binn.jpg') no-repeat;
+  background-size: cover;
+  border-radius: 60% 40% 55% 45% / 32% 24% 76% 68% ;
+        
+} */
+
+/* .img2-div{
+  height: 320px;
+  width: 450px;
+  background-image: url("../public/images/Dhokla.jpg") no-repeat;
+  background-size: cover;
+  border-radius: 60% 40% 55% 45% / 32% 24% 76% 68% ; 
+} */
+
+/* .cont-div{
+  padding: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn-close{
+  position: absolute;
+  right: 1.5em;
+  border-radius: 50%;
+}
+
+.modal-content{
+  width: 70%;
+  box-shadow: 0px 0px 2px black;
+}
+
+.btn{
+  padding-top: 0;
+}
+
+.card{
+  height: 400px;
+}
+
+.card-img-top{
+  height: 230px;
+  object-fit: cover;
+}
+
+.testi-img{
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+} */
